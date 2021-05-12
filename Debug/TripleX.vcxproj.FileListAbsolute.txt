@@ -1,0 +1,2 @@
+H:\C++ Projects\TripleX\Debug\TripleX.exe
+H:\C++ Projects\TripleX\Debug\TripleX.pdb
